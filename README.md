@@ -1,6 +1,8 @@
 # Base Directory Standards
 
-The purpose of this project is to take the [XDG Base Directory Standard]{http://standards.freedesktop.org/basedir-spec/latest/} and  [XDG User Directory Standard]{http://www.freedesktop.org/wiki/Software/xdg-user-dirs} (collectively *XDG*), as a starting point for a universal standard suitable for inclusion in the FHS.
+The purpose of this project is to take the [XDG Base Directory Standard](http://standards.freedesktop.org/basedir-spec/latest/)
+and [XDG User Directory Standard](http://www.freedesktop.org/wiki/Software/xdg-user-dirs) (collectively *XDG*),
+as a starting point for a universal standard suitable for inclusion in the FHS.
 
 ## CONSIDERATIONS
 
