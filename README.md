@@ -21,7 +21,7 @@ The defaults for each respectively:
 * `~/.var` or `~/.variable`
 * `~/.tmp` or `~/.cache`
 
-The later are for compatibility with XDG. (Note: `.variable` might be replaced with a more succinct name if a goof name can be determined.)
+The later are for compatibility with XDG. (Note: `.variable` might be replaced with a more succinct name if a good alternative can be determined.)
 
 ### System Directories
 
